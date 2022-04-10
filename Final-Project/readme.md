@@ -24,5 +24,5 @@ Auliya Michelle (auliyamichellea@gmail.com)
 Inspiration.
 
 - [tutorial](https://realpython.com/python-send-email/)
-- [textSubject](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- [setSubject](https://stackoverflow.com/questions/7232088/python-subject-not-shown-when-sending-email-using-smtplib-module)
 - [globalVariable](https://stackoverflow.com/questions/10588317/python-function-global-variables)
