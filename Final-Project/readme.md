@@ -1,6 +1,6 @@
 # Email Sender
 
-Sebuah program yang dapat mengirimkan email kepada beberapa penerima.
+A program that can send email to multiple recipients.
 
 ## Getting Started
 
@@ -16,7 +16,6 @@ https://myaccount.google.com/u/2/lesssecureapps
 
 ## Authors
 
-Contributors names and contact info
 Auliya Michelle (auliyamichellea@gmail.com)
 
 ## Acknowledgments
